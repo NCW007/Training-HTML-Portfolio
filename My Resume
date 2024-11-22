@@ -1,0 +1,110 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+
+        <title>My Resume</title>
+
+        <body>
+            <h1>Nickolas Wider</h1>
+
+          <img src="assets/images/Professional Picture.jpg" width="200" height="200" alt="Picture of Nickolas Wider"/>
+
+          <h2>Objective</h2>
+
+          <p>Seeking a position with a growth oriented organization where my extensive experience will be utilized for long-term career advancement.</p>
+
+          <hr/>
+
+          <h2>Professional Experience</h2>
+
+          <p>Fiserv<br/>                                                                12/14-Current</p>                                                     
+            600 Colonial Center Pkwy.<br/>
+            Lake Mary, Fl 32746<br/>
+            407-513-6139<br/>
+
+            <h3>Technical Support Representative</h3>
+            <p>Support rep provides full operational needs to Financial Institutions that utilize Fiserv debit card processing services.
+            Support Rep provides first level phone and email support to areas such as Card Production & Processing, Settlement, Balancing, 
+            Reports, Database set-up, Client notifications and File Transmissions. Support Rep also provides full support to Account 
+            Executives. Support Rep resolves issues by research and working with other departments including in-house Account Processors.</p>
+
+            <hr/>
+
+            <h2>Skills</h2>
+                <ul>
+                <li>Strong Problem Solving and Analytical skills</li>
+                <li>Strong Communication and Active Listening Skills</li>
+                <li>Excellent Multi-Tasking  and Attention to Detail</li>
+                <li>Solid MS Office, Excel, Power Point, & Access</li>
+                <li>Applications: Client Central, Facets, Outside View</li>
+            </ul>
+
+                
+          </p>
+
+          <hr/>
+
+          <h2>Certifications</h2>
+            <ul> 
+            <li>Technical Support Fundementals</li>
+            <li>Technical Support Professional</li>
+            <li> Customer Service Professional</li>
+        </ul>
+
+           
+
+            <hr/>
+
+          <h2>Education</h2>
+
+            <li>Bachelor of Science, Information Technology - Valencia College  01/12-05-15</li>
+
+            <hr/>
+
+          <h2>Contact</h2>
+            <ul>
+            <li><a href="public/about.html">about me</a></li>
+            <li><a href="public/contact.html">contact me</a></li>
+        </ul>
+
+        <footer>
+            <p>&copy; Nickolas Wider. All rights reserved.</p>
+        </footer>
+
+            
+
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+  
+        </body>
+
+        
+
+        
+
+
+
+        
+
+
+
+
+    </head>
+</html>
